@@ -4,4 +4,4 @@ A simple web application that counts the number of words in a given text. Built 
 
 **Tools & Technologies:** HTML, CSS, JavaScript, Regular Expressions.
 
-**Demo:** 
+**Demo:** https://poojag30.github.io/WordCounter/
